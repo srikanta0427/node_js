@@ -120,6 +120,7 @@ project/
 - Better organization
 - Easy maintenance
 - Separation of concerns
+- Easy to understand
 
 ---
 
