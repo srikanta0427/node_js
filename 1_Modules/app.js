@@ -1,8 +1,9 @@
 const { lol, sum} = require('./sum'); // either you can put sum.js or sum , it always serve as .js
 const {substraction, printName} = require('./substraction.js'); // either you can put sum.js or sum , it always serve as .js
-// console.log(x);
+ console.log(lol);
 
-const {add} = require('./sum.js')
+const {add} = require('./sum.js') 
+
 
 //we can get all those modules of sum_files by giving only folder path also
 const {getDivision, getReminder} = require('./sum_files/')
